@@ -16,7 +16,7 @@ html {
 body {
     font-family: Verdana, sans-serif;
     /* background-image: linear-gradient(260deg, #2376ae 0%, green 100%); */
-    background-image: linear-gradient(260deg, green 0%, #2376ae  100%);
+    background-image: linear-gradient(260deg, green 0%, #2376ae 100%);
 }
 
 a {
