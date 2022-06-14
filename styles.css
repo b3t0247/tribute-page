@@ -21,7 +21,7 @@ body {
 
 a {
     color: #fff;
-    font-weight: 200;
+    /* font-weight: 200; */
     transition: all 0.5s;
 }
 
