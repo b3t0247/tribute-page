@@ -83,15 +83,3 @@ figcaption {
     font-size: 12px;
     letter-spacing: 1px;
 }
-
-@media all and (min-width: 768px) {
-    .wrapper {
-        flex-direction: row;
-        flex-wrap: wrap;
-    }
-
-    header,
-    footer {
-        width: 100%;
-    }
-}
