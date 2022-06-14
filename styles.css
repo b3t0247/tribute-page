@@ -101,23 +101,4 @@ figcaption {
     footer {
         width: 100%;
     }
-
-    main {
-        flex: 2;
-        order: 2;
-    }
-
-    /* .left-sidebar {
-        order: 1;
-        flex: 1;
-    }
-
-    .right-sidebar {
-        flex: 1;
-        order: 3;
-    } */
-
-    footer {
-        order: 4;
-    }
 }
