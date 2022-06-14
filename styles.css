@@ -85,6 +85,10 @@ figcaption {
     font-weight: lighter;
 }
 
+footer a {
+    text-decoration: none;
+}
+
 @media all and (min-width: 768px) {
     .flex-container {
         flex-direction: row;
