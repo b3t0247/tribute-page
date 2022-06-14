@@ -9,10 +9,6 @@ html {
     padding: 0;
 }
 
-* {
-    /* border: 1px solid red; */
-}
-
 body {
     font-family: Verdana, sans-serif;
     /* background-image: linear-gradient(260deg, #2376ae 0%, green 100%); */
